@@ -7,5 +7,5 @@ export default function Popup() {
     chrome.runtime.sendMessage({ popupMounted: true });
   }, []);
 
-  return <div className="popupContainer">Hello, world!</div>;
+  return <div className="popupContainer">In Flancia there is an Agora.</div>;
 }

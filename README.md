@@ -1,9 +1,12 @@
-# Chrome Extension (built with TypeScript + React)
+# Meritocracy
 
-> This project is a boilerplate project to allow you to quickly build chrome extensions using TypeScript and React.
+Based on https://github.com/martellaj/chrome-extension-react-typescript-boilerplate.
+
+See https://anagora.org/wiki/Web_Extensions for more.
 
 ## Building
 
+0.  apt install npm webpack git
 1.  Clone repo
 2.  `npm i`
 3.  `npm run dev` to compile once or `npm run watch` to run the dev task in watch mode
